@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RediffAlertTest" duration-ms="10867" started-at="2022-02-27T15:20:44 EST" finished-at="2022-02-27T15:20:55 EST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="10867" started-at="2022-02-27T15:20:44 EST" finished-at="2022-02-27T15:20:55 EST">
+      <class name="PageTests.AlertTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:PageTests.AlertTest@cb51256]" name="beforeTest" is-config="true" duration-ms="10668" started-at="2022-02-27T15:20:44 EST" finished-at="2022-02-27T15:20:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="errorMsgTest()[pri:0, instance:PageTests.AlertTest@cb51256]" name="errorMsgTest" duration-ms="151" started-at="2022-02-27T15:20:55 EST" finished-at="2022-02-27T15:20:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMsgTest -->
+      </class> <!-- PageTests.AlertTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- RediffAlertTest -->
+</testng-results>
